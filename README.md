@@ -1,7 +1,5 @@
 # Censorship Proxy User Manual
 
-(From CPSC 441 Assignments)
-
 ## Functionality implemented
 1. Handle simple GET interactions between client and server (for any HTTP website)
 2. Parse HTTP requests and responses and block content
